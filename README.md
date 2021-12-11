@@ -2,7 +2,7 @@
 ConsoleApp hecha en Nodejs, que crea tablas de multiplicar dado un número cualquiera
 
 
-### Dependencias: 
+## Dependencias: 
 yargs, colors
 
 
